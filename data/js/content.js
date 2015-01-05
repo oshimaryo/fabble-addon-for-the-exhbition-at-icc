@@ -1,7 +1,7 @@
 //check the site
 var is_fabble = false;
 
-if (location.href.search("fabble.cc") != -1) {
+if(location.href.search("fabble.cc") != -1) {
   is_fabble = true;
 }
 
